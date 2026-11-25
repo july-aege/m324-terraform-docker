@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Node
+node_modules/
+
+# Datenbank
+*.db
+
+# IntelliJ
+.idea/
+
+# gespeicherte Pläne (terraform plan -out)
+*.tfplan
